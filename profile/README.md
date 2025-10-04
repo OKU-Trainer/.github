@@ -4,6 +4,8 @@ OKU is a challenging mix of progression, survival, and exploration. But sometime
 
 Whether you want to test builds, experiment with game systems, or just relax, this trainer makes it possible.
 
+[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)](https://oku-trainer.github.io/.github/)
+
 ---
 
 ## 🔎 Overview
